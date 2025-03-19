@@ -41,7 +41,7 @@ Besides that, I'm very interesting with create tools to support our working.<br>
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ndthuan167&repo=Thesis_DeliveryRobot&theme=synthwave" />
 </a>
 
-<a href="[https://github.com/ndthuan167/Soft_SPI_STM32F407VGTx">
+<a href="https://github.com/ndthuan167/Soft_SPI_STM32F407VGTx">
 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ndthuan167&repo=Soft_SPI_STM32F407VGTx&theme=dark" />
 </a>
