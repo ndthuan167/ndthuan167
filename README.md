@@ -48,8 +48,13 @@ Besides that, I'm very interesting with create tools to support our working.<br>
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ndthuan167&repo=Soft_SPI_STM32F4xx&theme=dark" />
 </a>
 
+<a href="https://github.com/ndthuan167/Soft_I2C_STM32F4xx">
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ndthuan167&repo=Soft_I2C_STM32F4xx&theme=synthwave" />
+</a>
+
 <a href="https://github.com/ndthuan167/Custom_Bootloader_STM32F4xx">
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ndthuan167&repo=Custom_Bootloader_STM32F4xx&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ndthuan167&repo=Custom_Bootloader_STM32F4xx&theme=cobalt" />
 </a>
 
